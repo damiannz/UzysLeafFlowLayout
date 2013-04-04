@@ -1,0 +1,379 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9521E25E170D687900C66A27 /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9521E256170D687900C66A27 /* 1.jpeg */; };
+		9521E25F170D687900C66A27 /* 2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9521E257170D687900C66A27 /* 2.jpeg */; };
+		9521E260170D687900C66A27 /* 3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9521E258170D687900C66A27 /* 3.jpeg */; };
+		9521E261170D687900C66A27 /* 4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9521E259170D687900C66A27 /* 4.jpeg */; };
+		9521E262170D687900C66A27 /* 5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9521E25A170D687900C66A27 /* 5.jpeg */; };
+		9521E263170D687900C66A27 /* 6.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9521E25B170D687900C66A27 /* 6.jpeg */; };
+		9521E264170D687900C66A27 /* 7.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9521E25C170D687900C66A27 /* 7.jpeg */; };
+		9521E265170D687900C66A27 /* 8.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9521E25D170D687900C66A27 /* 8.jpeg */; };
+		9521E268170D689700C66A27 /* btnIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9521E267170D689700C66A27 /* btnIcon@2x.png */; };
+		959AF30C170D5F44007E770C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 959AF30B170D5F44007E770C /* UIKit.framework */; };
+		959AF30E170D5F44007E770C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 959AF30D170D5F44007E770C /* Foundation.framework */; };
+		959AF310170D5F44007E770C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 959AF30F170D5F44007E770C /* CoreGraphics.framework */; };
+		959AF316170D5F44007E770C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 959AF314170D5F44007E770C /* InfoPlist.strings */; };
+		959AF318170D5F44007E770C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 959AF317170D5F44007E770C /* main.m */; };
+		959AF31C170D5F44007E770C /* UzysAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 959AF31B170D5F44007E770C /* UzysAppDelegate.m */; };
+		959AF31E170D5F44007E770C /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 959AF31D170D5F44007E770C /* Default.png */; };
+		959AF320170D5F44007E770C /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 959AF31F170D5F44007E770C /* Default@2x.png */; };
+		959AF322170D5F44007E770C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 959AF321170D5F44007E770C /* Default-568h@2x.png */; };
+		959AF325170D5F44007E770C /* UzysViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 959AF324170D5F44007E770C /* UzysViewController.m */; };
+		959AF328170D5F44007E770C /* UzysViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 959AF326170D5F44007E770C /* UzysViewController.xib */; };
+		959AF331170D6033007E770C /* UzysLeafFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 959AF330170D6033007E770C /* UzysLeafFlowLayout.m */; };
+		959AF334170D628C007E770C /* UzysLeafFlowCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 959AF333170D628C007E770C /* UzysLeafFlowCell.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		9521E256170D687900C66A27 /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpeg; sourceTree = "<group>"; };
+		9521E257170D687900C66A27 /* 2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpeg; sourceTree = "<group>"; };
+		9521E258170D687900C66A27 /* 3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpeg; sourceTree = "<group>"; };
+		9521E259170D687900C66A27 /* 4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpeg; sourceTree = "<group>"; };
+		9521E25A170D687900C66A27 /* 5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpeg; sourceTree = "<group>"; };
+		9521E25B170D687900C66A27 /* 6.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpeg; sourceTree = "<group>"; };
+		9521E25C170D687900C66A27 /* 7.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpeg; sourceTree = "<group>"; };
+		9521E25D170D687900C66A27 /* 8.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpeg; sourceTree = "<group>"; };
+		9521E267170D689700C66A27 /* btnIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "btnIcon@2x.png"; sourceTree = "<group>"; };
+		9521E269170D6F7200C66A27 /* ARCHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ARCHelper.h; path = UzysLeafFlow/Library/ARCHelper.h; sourceTree = SOURCE_ROOT; };
+		959AF308170D5F44007E770C /* UzysLeafFlow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UzysLeafFlow.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		959AF30B170D5F44007E770C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		959AF30D170D5F44007E770C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		959AF30F170D5F44007E770C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		959AF313170D5F44007E770C /* UzysLeafFlow-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UzysLeafFlow-Info.plist"; sourceTree = "<group>"; };
+		959AF315170D5F44007E770C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		959AF317170D5F44007E770C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		959AF319170D5F44007E770C /* UzysLeafFlow-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UzysLeafFlow-Prefix.pch"; sourceTree = "<group>"; };
+		959AF31A170D5F44007E770C /* UzysAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UzysAppDelegate.h; sourceTree = "<group>"; };
+		959AF31B170D5F44007E770C /* UzysAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UzysAppDelegate.m; sourceTree = "<group>"; };
+		959AF31D170D5F44007E770C /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		959AF31F170D5F44007E770C /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		959AF321170D5F44007E770C /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		959AF323170D5F44007E770C /* UzysViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UzysViewController.h; sourceTree = "<group>"; };
+		959AF324170D5F44007E770C /* UzysViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UzysViewController.m; sourceTree = "<group>"; };
+		959AF327170D5F44007E770C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/UzysViewController.xib; sourceTree = "<group>"; };
+		959AF32F170D6033007E770C /* UzysLeafFlowLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UzysLeafFlowLayout.h; sourceTree = "<group>"; };
+		959AF330170D6033007E770C /* UzysLeafFlowLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UzysLeafFlowLayout.m; sourceTree = "<group>"; };
+		959AF332170D628C007E770C /* UzysLeafFlowCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UzysLeafFlowCell.h; sourceTree = "<group>"; };
+		959AF333170D628C007E770C /* UzysLeafFlowCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UzysLeafFlowCell.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		959AF305170D5F44007E770C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				959AF30C170D5F44007E770C /* UIKit.framework in Frameworks */,
+				959AF30E170D5F44007E770C /* Foundation.framework in Frameworks */,
+				959AF310170D5F44007E770C /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9521E255170D687900C66A27 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				9521E256170D687900C66A27 /* 1.jpeg */,
+				9521E257170D687900C66A27 /* 2.jpeg */,
+				9521E258170D687900C66A27 /* 3.jpeg */,
+				9521E259170D687900C66A27 /* 4.jpeg */,
+				9521E25A170D687900C66A27 /* 5.jpeg */,
+				9521E25B170D687900C66A27 /* 6.jpeg */,
+				9521E25C170D687900C66A27 /* 7.jpeg */,
+				9521E25D170D687900C66A27 /* 8.jpeg */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		9521E266170D689700C66A27 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				9521E267170D689700C66A27 /* btnIcon@2x.png */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		959AF2FF170D5F44007E770C = {
+			isa = PBXGroup;
+			children = (
+				959AF311170D5F44007E770C /* UzysLeafFlow */,
+				959AF30A170D5F44007E770C /* Frameworks */,
+				959AF309170D5F44007E770C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		959AF309170D5F44007E770C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				959AF308170D5F44007E770C /* UzysLeafFlow.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		959AF30A170D5F44007E770C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				959AF30B170D5F44007E770C /* UIKit.framework */,
+				959AF30D170D5F44007E770C /* Foundation.framework */,
+				959AF30F170D5F44007E770C /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		959AF311170D5F44007E770C /* UzysLeafFlow */ = {
+			isa = PBXGroup;
+			children = (
+				9521E255170D687900C66A27 /* Resources */,
+				959AF32E170D5FD2007E770C /* Library */,
+				959AF31A170D5F44007E770C /* UzysAppDelegate.h */,
+				959AF31B170D5F44007E770C /* UzysAppDelegate.m */,
+				959AF323170D5F44007E770C /* UzysViewController.h */,
+				959AF324170D5F44007E770C /* UzysViewController.m */,
+				959AF326170D5F44007E770C /* UzysViewController.xib */,
+				959AF312170D5F44007E770C /* Supporting Files */,
+			);
+			path = UzysLeafFlow;
+			sourceTree = "<group>";
+		};
+		959AF312170D5F44007E770C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				959AF313170D5F44007E770C /* UzysLeafFlow-Info.plist */,
+				959AF314170D5F44007E770C /* InfoPlist.strings */,
+				959AF317170D5F44007E770C /* main.m */,
+				959AF319170D5F44007E770C /* UzysLeafFlow-Prefix.pch */,
+				959AF31D170D5F44007E770C /* Default.png */,
+				959AF31F170D5F44007E770C /* Default@2x.png */,
+				959AF321170D5F44007E770C /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		959AF32E170D5FD2007E770C /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				9521E266170D689700C66A27 /* Resource */,
+				9521E269170D6F7200C66A27 /* ARCHelper.h */,
+				959AF32F170D6033007E770C /* UzysLeafFlowLayout.h */,
+				959AF330170D6033007E770C /* UzysLeafFlowLayout.m */,
+				959AF332170D628C007E770C /* UzysLeafFlowCell.h */,
+				959AF333170D628C007E770C /* UzysLeafFlowCell.m */,
+			);
+			path = Library;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		959AF307170D5F44007E770C /* UzysLeafFlow */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 959AF32B170D5F44007E770C /* Build configuration list for PBXNativeTarget "UzysLeafFlow" */;
+			buildPhases = (
+				959AF304170D5F44007E770C /* Sources */,
+				959AF305170D5F44007E770C /* Frameworks */,
+				959AF306170D5F44007E770C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = UzysLeafFlow;
+			productName = UzysLeafFlow;
+			productReference = 959AF308170D5F44007E770C /* UzysLeafFlow.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		959AF300170D5F44007E770C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = Uzys;
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = Uzys;
+			};
+			buildConfigurationList = 959AF303170D5F44007E770C /* Build configuration list for PBXProject "UzysLeafFlow" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 959AF2FF170D5F44007E770C;
+			productRefGroup = 959AF309170D5F44007E770C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				959AF307170D5F44007E770C /* UzysLeafFlow */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		959AF306170D5F44007E770C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				959AF316170D5F44007E770C /* InfoPlist.strings in Resources */,
+				959AF31E170D5F44007E770C /* Default.png in Resources */,
+				959AF320170D5F44007E770C /* Default@2x.png in Resources */,
+				959AF322170D5F44007E770C /* Default-568h@2x.png in Resources */,
+				959AF328170D5F44007E770C /* UzysViewController.xib in Resources */,
+				9521E25E170D687900C66A27 /* 1.jpeg in Resources */,
+				9521E25F170D687900C66A27 /* 2.jpeg in Resources */,
+				9521E260170D687900C66A27 /* 3.jpeg in Resources */,
+				9521E261170D687900C66A27 /* 4.jpeg in Resources */,
+				9521E262170D687900C66A27 /* 5.jpeg in Resources */,
+				9521E263170D687900C66A27 /* 6.jpeg in Resources */,
+				9521E264170D687900C66A27 /* 7.jpeg in Resources */,
+				9521E265170D687900C66A27 /* 8.jpeg in Resources */,
+				9521E268170D689700C66A27 /* btnIcon@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		959AF304170D5F44007E770C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				959AF318170D5F44007E770C /* main.m in Sources */,
+				959AF31C170D5F44007E770C /* UzysAppDelegate.m in Sources */,
+				959AF325170D5F44007E770C /* UzysViewController.m in Sources */,
+				959AF331170D6033007E770C /* UzysLeafFlowLayout.m in Sources */,
+				959AF334170D628C007E770C /* UzysLeafFlowCell.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		959AF314170D5F44007E770C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				959AF315170D5F44007E770C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		959AF326170D5F44007E770C /* UzysViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				959AF327170D5F44007E770C /* en */,
+			);
+			name = UzysViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		959AF329170D5F44007E770C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		959AF32A170D5F44007E770C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		959AF32C170D5F44007E770C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "UzysLeafFlow/UzysLeafFlow-Prefix.pch";
+				INFOPLIST_FILE = "UzysLeafFlow/UzysLeafFlow-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		959AF32D170D5F44007E770C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "UzysLeafFlow/UzysLeafFlow-Prefix.pch";
+				INFOPLIST_FILE = "UzysLeafFlow/UzysLeafFlow-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		959AF303170D5F44007E770C /* Build configuration list for PBXProject "UzysLeafFlow" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				959AF329170D5F44007E770C /* Debug */,
+				959AF32A170D5F44007E770C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		959AF32B170D5F44007E770C /* Build configuration list for PBXNativeTarget "UzysLeafFlow" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				959AF32C170D5F44007E770C /* Debug */,
+				959AF32D170D5F44007E770C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 959AF300170D5F44007E770C /* Project object */;
+}
