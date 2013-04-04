@@ -64,6 +64,6 @@ UzysLeafFlowLayout *layout = [[[UzysLeafFlowLayout alloc] init] autorelease];
 ```
 License
 -------
-UzysLeafFlow is available under the MIT license. See the LICENSE file for more info.
+UzysLeafFlowLayout is available under the MIT license. See the LICENSE file for more info.
 
 [1]: https://github.com/steipete/PSTCollectionView
